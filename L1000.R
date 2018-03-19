@@ -61,3 +61,6 @@ close(outfile)
 # compound_expression <- t(L1000$expression[, compound_inst_ix])
 # colnames(compound_expression) <- L1000$gene_info$pr_gene_symbol
 # rownames(compound_expression) <- L1000$inst_info$pert_iname[compound_inst_ix]
+#
+# # info about all columns in gene_info and inst_info can be found at
+# # https://docs.google.com/document/d/1q2gciWRhVCAAnlvF2iRLuJ7whrGP6QjpsCMq1yWz7dU/edit#heading=h.l6bq0r1aih50
